@@ -10,6 +10,8 @@ Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08/
 URL:&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/MarkOlsonMN/deep-learning-challenge  
   
 ## Code Source/Location within this Repo  
-ReadMe:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/README.md   
-Jupyter Notebook (code):&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/Applicant_Funding_Deep_Learning.ipynb  
- 
+ReadMe:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/README.md  
+(base) Jupyter Notebook (code):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity.ipynb  
+(base) ML Model HDF5 (model export):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity.h5  
+(optimize) Jupyter Notebook (code):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity_Optimaization.ipynb  
+(optimize) ML Model HDF5 (model export):&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity_Optimaization.h5  
