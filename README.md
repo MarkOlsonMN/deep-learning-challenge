@@ -14,4 +14,6 @@ ReadMe:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 (base) Jupyter Notebook (code):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity.ipynb  
 (base) ML Model HDF5 (model export):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity.h5  
 (optimize) Jupyter Notebook (code):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity_Optimaization.ipynb  
-(optimize) ML Model HDF5 (model export):&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity_Optimaization.h5  
+(optimize) ML Model HDF5 (model export):&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity_Optimaization_1.h5  
+(optimize) ML Model HDF5 (model export):&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity_Optimaization_2.h5  
+(optimize) ML Model HDF5 (model export):&nbsp;&nbsp;&nbsp;&nbsp;deep-learning-challenge/AlphabetSoupCharity_Optimaization_3.h5  
